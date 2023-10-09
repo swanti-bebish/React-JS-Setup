@@ -1,5 +1,4 @@
 # React-JS-Setup
-## Setup
 - Install node js
 - Install `create-react-app`
 ```
