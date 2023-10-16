@@ -16,3 +16,7 @@ npx create-react-app my-react-app
 ```
   npx json-server --watch data/file_name.json --port 8000
 ```
+- To any save any specified packages into dependencies by default
+```
+  npm install
+```
