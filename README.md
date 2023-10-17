@@ -20,3 +20,7 @@ npx create-react-app my-react-app
 ```
   npm install
 ```
+- To use React router, route, link etc.
+```
+  npm install react-router-dom
+```
